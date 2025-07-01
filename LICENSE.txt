@@ -1,5 +1,5 @@
 <section id="license">
-  <h2>PAUL v1.0 – Personal & Academic Use License</h2>
+  <h2>PAUL v1.1 – Personal & Academic Use License</h2>
   <p><strong>Copyright (c) 2025 Marty L. Danish (cactusflatscoder)</strong></p>
 
   <p>
