@@ -2,7 +2,7 @@
 
 **Copyright (c) 2025 Marty L. Danish (cactusflatscoder)**
 
-This software and associated files (the "Toolkit") are the intellectual property of the author and are licensed under the following terms:
+This software and associated files (the "Software") are the intellectual property of the author and are licensed under the following terms:
 
 ---
 
@@ -14,13 +14,13 @@ This software and associated files (the "Toolkit") are the intellectual property
 
 ## Permitted Uses (At No Cost)
 
-- **Personal Use**: You may use, modify, and share this Toolkit for personal or non-commercial projects.
+- **Personal Use**: You may use, modify, and share this Software for personal or non-commercial projects.
 
 - **Academic Use**: This includes use in academic research, class projects, teaching, and learning environments.
 
 - In all cases, clear **attribution is required**. Please credit the author as follows:
 
-  > “Toolkit by Marty L. Danish (cactusflatscoder), used under PAUL v1.1 license”
+  > “Software by Marty L. Danish (cactusflatscoder), used under PAUL v1.1 license”
 
 ---
 
@@ -29,19 +29,19 @@ This software and associated files (the "Toolkit") are the intellectual property
 - **Commercial Use is NOT permitted without a paid license.**  
   This includes SaaS products, client work, internal company tools, or any deployment that yields direct or indirect revenue.
 
-- You may not sublicense, relicense, or sell this Toolkit or derivative works without written permission.
+- You may not sublicense, relicense, or sell this Software or derivative works without written permission.
 
 ---
 
 ## Ethical AI Use Requirements
 
-- This Toolkit may not be used to develop, train, or deploy AI systems that:
+- This Software may not be used to develop, train, or deploy AI systems that:
 
   - Enable surveillance, profiling, or predictive analytics targeting individuals or communities without informed consent  
   - Contribute to discrimination, harassment, or harm against **Marginalized Individuals or Groups**, as defined above  
   - Support or promote the goals of hate-based organizations, including white supremacist, fascist, or ethnonationalist groups
 
-- Use of this Toolkit in AI systems must align with principles of transparency, accountability, and equity, and must not be used to reinforce systemic oppression or social exclusion.
+- Use of this Software in AI systems must align with principles of transparency, accountability, and equity, and must not be used to reinforce systemic oppression or social exclusion.
 
 ---
 
