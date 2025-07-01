@@ -1,0 +1,54 @@
+<section id="license">
+  <h2>PAUL v1.0 – Personal & Academic Use License</h2>
+  <p><strong>Copyright (c) 2025 Marty L. Danish (cactusflatscoder)</strong></p>
+
+  <p>
+    This software and associated files (the "Toolkit") are the intellectual property of the author and are licensed under the following terms:
+  </p>
+
+  <h3>Permitted Uses (At No Cost):</h3>
+  <ul>
+    <li><strong>Personal Use:</strong> You may use, modify, and share this Toolkit for personal or non-commercial projects.</li>
+    <li><strong>Academic Use:</strong> This includes use in academic research, class projects, teaching, and learning environments.</li>
+    <li>
+      In all cases, clear <strong>attribution is required</strong>. Please credit the author as follows:<br/>
+      <em>"Toolkit by M.L. Danish (cactusflatscoder), used under PAUL v1.0 license"</em>
+    </li>
+  </ul>
+
+<h3>Definition of Marginalization:</h3>
+<p>
+  For the purposes of this license, <strong>"Marginalized Individuals or Groups"</strong> are those who experience systemic barriers to access, representation, or safety due to factors such as race, ethnicity, gender identity, sexual orientation, disability, religion, immigration status, or socioeconomic background. This definition is grounded in historical and ongoing patterns of exclusion, not in perceived social disagreement or opposition to discriminatory beliefs.
+</p>
+
+ <h3>Ethical AI Use Requirements:</h3>
+ <p>
+  This license affirms a commitment to equity, justice, and the protection of communities historically harmed by technological misuse. It does not extend protections to groups whose goals are rooted in hate, exclusion, or supremacy.
+</p>
+<ul>
+  <li>This Toolkit may not be used to develop, train, or deploy AI systems that:
+    <ul>
+      <li>Enable surveillance, profiling, or predictive analytics targeting individuals or communities without informed consent</li>
+      <li>Contribute to discrimination, harassment, or harm against <strong>Marginalized Individuals or Groups</strong>, including but not limited to those marginalized by race, ethnicity, gender identity, sexual orientation, disability, religion, immigration status, or socioeconomic background</li>
+      <li>Support or promote the goals of hate-based organizations, including white supremacist, fascist, or ethnonationalist groups</li>
+    </ul>
+  </li>
+  <li>Use of this Toolkit in AI systems must align with principles of transparency, accountability, and equity, and must not be used to reinforce systemic oppression or social exclusion.</li>
+</ul>
+
+  <h3>Other Restricted Uses:</h3>
+  <ul>
+    <li><strong>Commercial Use is NOT permitted without a paid license.</strong><br/>
+      This includes SaaS products, client work, internal company tools, or any deployment that yields direct or indirect revenue.</li>
+    <li>You may not sublicense, relicense, or sell this Toolkit or derivative works without written permission.</li>
+  </ul>
+
+  <h3>Interested in Commercial Use?</h3>
+  <p>
+    Contact the author at <a href="mailto:hello@martydoesdata.com">Hello@MartyDoesData.com</a> to obtain a commercial license.
+  </p>
+
+  <p style="font-style: italic; margin-top: 1em;">
+    PAUL protects this project with a heart and a backbone. 💙
+  </p>
+</section>
